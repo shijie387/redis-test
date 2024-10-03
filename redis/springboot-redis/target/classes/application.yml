@@ -1,0 +1,8 @@
+ server:
+   port: 8080
+
+ spring:
+   data:
+     redis:
+       host: 10.211.55.10
+       port: 6379
